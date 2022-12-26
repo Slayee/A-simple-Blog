@@ -1,4 +1,4 @@
-Hi, time is 5:46PM IST date 22nd June 2019 and This is the readme of the first ever simple blog that has been made by me,ofcourse.(even though with the help of work of others).
+Hi, time is 5:46PM IST date 22nd June 2019 and This is the readme of the first ever simple blog that has been made by me,ofcourse.
 
 
 This Blog is made as a personal project to implement the knowledge that i have gained in HTML and CSS only.
